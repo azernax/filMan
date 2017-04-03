@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\azernax\dysk google\filman\nowyfilman\nowyfilman\okno.h(1214): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\azernax\dysk google\filman\nowyfilman\nowyfilman\okno.h(1234): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  okno.cpp
+c:\users\azernax\dysk google\filman\nowyfilman\nowyfilman\okno.h(1214): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\azernax\dysk google\filman\nowyfilman\nowyfilman\okno.h(1234): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  nowyFilman.vcxproj -> C:\Users\AZERNAX\Dysk Google\FilMan\nowyFilman\Release\nowyFilman.exe
+  nowyFilman.vcxproj -> C:\Users\AZERNAX\Dysk Google\FilMan\nowyFilman\Release\nowyFilman.pdb (Full PDB)

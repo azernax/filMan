@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\azernax\dysk google\filman\nowyfilman\nowyfilman\okno.h(1217): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\azernax\dysk google\filman\nowyfilman\nowyfilman\okno.h(1237): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  okno.cpp
+c:\users\azernax\dysk google\filman\nowyfilman\nowyfilman\okno.h(1217): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\azernax\dysk google\filman\nowyfilman\nowyfilman\okno.h(1237): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  okno.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  nowyFilman.vcxproj -> C:\Users\AZERNAX\Dysk Google\FilMan\nowyFilman\Debug\nowyFilman.exe
+  nowyFilman.vcxproj -> C:\Users\AZERNAX\Dysk Google\FilMan\nowyFilman\Debug\nowyFilman.pdb (Partial PDB)
